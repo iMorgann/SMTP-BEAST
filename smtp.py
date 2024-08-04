@@ -710,15 +710,15 @@ def parse_laravel_result_file(file_path):
         smtp_server, port, username, password, mailfrom = None, None, None, None, None
         for line in lines:
             if line.startswith("MAILHOST:"):
-                smtp_server = line.split(": ")[1].strip().strip('"')
+                smtp_server = line.split(": ")[1].strip().strip('"').strip("'")
             elif line.startswith("MAILPORT:"):
-                port = line.split(": ")[1].strip().strip('"')
+                port = line.split(": ")[1].strip().strip('"').strip("'")
             elif line.startswith("MAILUSER:"):
-                username = line.split(": ")[1].strip().strip('"')
+                username = line.split(": ")[1].strip().strip('"').strip("'")
             elif line.startswith("MAILPASS:"):
-                password = line.split(": ")[1].strip().strip('"')
+                password = line.split(": ")[1].strip().strip('"').strip("'")
             elif line.startswith("MAILFROM:"):
-                mailfrom = line.split(": ")[1].strip().strip('"')
+                mailfrom = line.split(": ")[1].strip().strip('"').strip("'")
 
             if smtp_server and port and username and password:
                 if mailfrom and mailfrom.lower() != "null":
