@@ -1,0 +1,1 @@
+smtp.vgroupcars.com|587|marketing_mazda-cm@vgroupcars.com|Vgroup99

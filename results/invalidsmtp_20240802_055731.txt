@@ -1,0 +1,6 @@
+smtp.1and1.com|587|alerts@linuxmaven.com|Technico
+smtp.1und1.de|25|support@portal.blimo.de|3(yK,,6v361F(r}ds#!S5mAMK[/5@jjCfe4Qpxx8
+smtp.1und1.de|25|support@portal.blimo.de|3(yK,,6v361F(r}ds#!S5mAMK[/5@jjCfe4Qpxx8
+smtp.1und1.de|25|support@portal.blimo.de|3(yK,,6v361F(r}ds#!S5mAMK[/5@jjCfe4Qpxx8
+smtp.1and1.com|587|alerts@linuxmaven.com|Technico
+smtp.1und1.de|25|support@portal.blimo.de|3(yK,,6v361F(r}ds#!S5mAMK[/5@jjCfe4Qpxx8

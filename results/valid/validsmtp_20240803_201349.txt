@@ -1,0 +1,2 @@
+smtp.mailtrap.io|465|fcb98b37387a56|9006d0bb4e600a|fcb98b37387a56
+smtp.mailtrap.io|465|f317c535a71899|ef04beab433fc6|f317c535a71899

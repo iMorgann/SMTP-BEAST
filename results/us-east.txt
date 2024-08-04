@@ -1,0 +1,7 @@
+URL: https://nodiamart.com
+METHOD: /.env
+AWS ACCESS KEY: 
+AWS SECRET KEY: 
+AWS REGION: us-east-1
+AWS BUCKET: 
+

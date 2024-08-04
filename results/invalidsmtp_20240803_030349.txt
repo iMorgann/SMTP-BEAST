@@ -1,0 +1,36 @@
+URL: https://biz.bithonet.co.il
+
+METHOD: /.env
+
+MAILHOST: md-in-39.webhostbox.net
+
+MAILPORT: 465
+
+MAILUSER: noreply@mobappstechnicalteam.com
+
+MAILPASS: 12345678
+
+MAILFROM: noreply@mobappstechnicalteam.com
+
+FROMNAME: 
+
+
+
+URL: https://cryptoweekly.co
+
+METHOD: /.env
+
+MAILHOST: smtp.mailtrap.io
+
+MAILPORT: 2525
+
+MAILUSER: 4fc14496e454f2
+
+MAILPASS: 2d476c6dcea089
+
+MAILFROM: "noreply@cryptoweekly.co"
+
+FROMNAME: 
+
+
+

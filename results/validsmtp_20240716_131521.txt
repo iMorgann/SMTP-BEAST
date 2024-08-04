@@ -1,0 +1,4 @@
+smtp.visavina.vn|587|admin@visavina.vn|123456 [VALID]
+smtp.uol.com.br|587|reginagirao@uol.com.br|aa080494 [VALID]
+smtp.vgroupcars.com|587|marketing_mazda-cm@vgroupcars.com|Vgroup99 [VALID]
+smtp.unautre.fr|587|postmaster@unautre.fr|14t6wix5 [VALID]

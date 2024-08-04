@@ -1,0 +1,4 @@
+smtp.uol.com.br|587|reginagirao@uol.com.br|aa080494
+
+smtp.unautre.fr|587|postmaster@unautre.fr|14t6wix5
+

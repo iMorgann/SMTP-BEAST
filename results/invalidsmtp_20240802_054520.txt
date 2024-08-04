@@ -1,0 +1,108 @@
+MAILHOST: smtp.1and1.com
+
+URL: http://159.203.69.189
+
+METHOD: debug
+
+MAILPORT: 587
+
+MAILUSER: alerts@linuxmaven.com
+
+MAILPASS: Technico
+
+MAILFROM: 
+
+FROMNAME: 
+
+
+
+URL: http://81.169.156.176
+
+METHOD: debug
+
+MAILHOST: smtp.1und1.de
+
+MAILPORT: 25
+
+MAILUSER: support@portal.blimo.de
+
+MAILPASS: 3(yK,,6v361F(r}ds#!S5mAMK[/5@jjCfe4Qpxx8
+
+MAILFROM: info@zeiterfassung-fastabend.de
+
+FROMNAME: zeiterfassung-fastabend
+
+
+
+URL: http://81.169.156.176
+
+METHOD: debug
+
+MAILHOST: smtp.1und1.de
+
+MAILPORT: 25
+
+MAILUSER: support@portal.blimo.de
+
+MAILPASS: 3(yK,,6v361F(r}ds#!S5mAMK[/5@jjCfe4Qpxx8
+
+MAILFROM: info@zeiterfassung-fastabend.de
+
+FROMNAME: zeiterfassung-fastabend
+
+
+
+URL: http://81.169.156.176
+
+METHOD: debug
+
+MAILHOST: smtp.1und1.de
+
+MAILPORT: 25
+
+MAILUSER: support@portal.blimo.de
+
+MAILPASS: 3(yK,,6v361F(r}ds#!S5mAMK[/5@jjCfe4Qpxx8
+
+MAILFROM: info@zeiterfassung-fastabend.de
+
+FROMNAME: zeiterfassung-fastabend
+
+
+
+URL: http://159.203.69.189
+
+METHOD: debug
+
+MAILHOST: smtp.1and1.com
+
+MAILPORT: 587
+
+MAILUSER: alerts@linuxmaven.com
+
+MAILPASS: Technico
+
+MAILFROM: 
+
+FROMNAME: 
+
+
+
+URL: http://81.169.156.176
+
+METHOD: debug
+
+MAILHOST: smtp.1und1.de
+
+MAILPORT: 25
+
+MAILUSER: support@portal.blimo.de
+
+MAILPASS: 3(yK,,6v361F(r}ds#!S5mAMK[/5@jjCfe4Qpxx8
+
+MAILFROM: info@zeiterfassung-fastabend.de
+
+FROMNAME: zeiterfassung-fastabend
+
+
+
